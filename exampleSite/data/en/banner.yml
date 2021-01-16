@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: "/images/new.jpg"
+  bg_image: "/images/a1.jpg"
   icon: ''
   title: KAARTHIK ANDAVAR (Andy)
   content: "Hey there! \nThis is Andy, a Data Science professional and a big-time
