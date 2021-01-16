@@ -4,9 +4,9 @@ team:
   title: Projects
   team_member:
   - name: Best Location for Residential Flat in Christchurch
-    image_webp: images/team/team-1.webp
+    image_webp: ''
     image: "/images/chc.jpg"
-    designation: CEO/Founder
+    designation: ''
     content: The main aim of this project is to determine the best location in Christchurch
       city to build a residential flat or any business development based on the airport
       noise factor and away from the main roads in order to avoid busy traffic also
@@ -15,7 +15,7 @@ team:
     social:
     - icon: ti-github
       link: "#https://github.com/kaarthik108/Best-Location-for-Residential-Flat-in-Christchurch"
-  - name: Frank Miller
+  - name: Pneumonia prediction from the Chest X-ray scan
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
     designation: Manager
