@@ -11,7 +11,7 @@ contact:
     info: 'Email: kaarthikandavar@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "#kaarthikandavar@gmail.com"
     name: Your Name
     email: Your Email
     subject: Subject
