@@ -22,6 +22,8 @@ team:
       the labelled image (Chest X-ray) to be either Pneumonia or not.
     content: "."
     social:
+    - icon: ti-kaggle
+      link: "#https://www.kaggle.com/andy2380/pneumonia-prediction-using-resnet50"
     - icon: ti-github
       link: "#https://github.com/kaarthik108/Pneumonia-Detection-using-Chest-Xray"
   - name: Michael Jonson
