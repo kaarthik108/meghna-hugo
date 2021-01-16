@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: "/images/a1.jpg"
-  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  bg_image_webp: ''
   testimonial_item:
   - name: ''
     image: ''
