@@ -153,10 +153,10 @@ icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCVMCP-hn26b-5I0V5eNUmLg"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#https://www.linkedin.com/in/kaarthik-andavar-andy-b32a27143/"
+link = "https://www.linkedin.com/in/kaarthik-andavar-andy-b32a27143/"
 [[params.social]]
 icon = "ti-github"
-link = "#https://github.com/kaarthik108"
+link = "https://github.com/kaarthik108"
 [[params.social]]
 icon = "ti-instagram"
 link = "#https://www.instagram.com/yo_andy_7/"
