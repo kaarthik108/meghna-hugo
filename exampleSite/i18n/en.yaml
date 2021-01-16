@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Experience
 - id: readMore
   translation: Read more
 - id: viewAllPost
@@ -14,18 +14,14 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: About me
 - id: services
-  translation: Service
+  translation: Skills
 - id: portfolio
   translation: Portfolio
 - id: Projects
   translation: Projects
-- id: pricing
-  translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Work Experience
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
