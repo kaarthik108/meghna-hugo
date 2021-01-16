@@ -19,19 +19,17 @@ pricing:
     button:
       label: FIS
       link: https://www.freightways.co.nz/
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: Jucy
+    price: Business Intelligence Analyst
+    unit: ''
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Recreating Fleet Availability Tally Report using Power BI
+    - Build functionality in the report to be able to filter out Maintenance bookings
+    - creating a dynamic tabular output that shows the availability of fleet at a
+      given location
     button:
-      label: Signup
-      link: "#"
+      label: Jucy
+      link: https://www.jucy.com/nz/en/
   - name: Gold
     price: "$199"
     unit: month
