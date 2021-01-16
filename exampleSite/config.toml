@@ -144,7 +144,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "www.facebook.com/kaarthik.andavar/"
+link = "https://www.facebook.com/kaarthik.andavar/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/feetup_andy"
