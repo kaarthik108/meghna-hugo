@@ -19,7 +19,6 @@ service:
     icon: ti-package
     content: Azure SQL Database/ SQL Data Warehouse, Azure Data Factory, AWS EC2,
       Sagemaker, Azure ML
-  - name: Networking
+  - name: Big Data
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Statistical analysis, data wrangling, data mining and modeling,
