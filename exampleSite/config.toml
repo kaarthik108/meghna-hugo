@@ -54,11 +54,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/french"
+contentDir = ""
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = ""
+languageName = ""
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -144,19 +144,19 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "#https://www.facebook.com/kaarthik.andavar/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "#https://twitter.com/feetup_andy"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "#https://www.youtube.com/channel/UCVMCP-hn26b-5I0V5eNUmLg"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/in/kaarthik-andavar-andy-b32a27143/"
 [[params.social]]
-icon = "ti-dribbble"
-link = "#"
+icon = "ti-github"
+link = "#https://github.com/kaarthik108"
 [[params.social]]
-icon = "ti-pinterest"
-link = "#"
+icon = "ti-instagram"
+link = "#https://www.instagram.com/yo_andy_7/"
