@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: ''
   bg_image: "/images/a1.jpg"
   icon: ''
   title: KAARTHIK ANDAVAR (Andy)
