@@ -30,19 +30,18 @@ pricing:
     button:
       label: Jucy
       link: https://www.jucy.com/nz/en/
-  - name: Gold
-    price: "$199"
-    unit: month
+  - name: Mercedes Benz R&D
+    price: Network Engineer
+    unit: ''
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Troubleshooting Proactive/Reactive alarms for network devices through the use
+      of traceroute, ICMP
+    - Preparing daily reports and attending morning bridge calls
+    - Performing OLA/SLA Analysis and Quality Audit
+    - Monitoring and administering the network devices over the CA Spectrum tool
     button:
-      label: Signup
-      link: "#"
+      label: Mercedes Benz
+      link: https://www.mbrdi.co.in/
   - name: Platinum
     price: "$299"
     unit: month
