@@ -10,5 +10,5 @@ banner:
     do."
   button:
     enable: true
-    label: Explore Us
+    label: Explore Me
     link: "#services"
