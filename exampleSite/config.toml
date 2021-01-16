@@ -150,7 +150,7 @@ icon = "ti-twitter-alt"
 link = "https://twitter.com/feetup_andy"
 [[params.social]]
 icon = "ti-youtube"
-link = "#https://www.youtube.com/channel/UCVMCP-hn26b-5I0V5eNUmLg"
+link = "https://www.youtube.com/channel/UCVMCP-hn26b-5I0V5eNUmLg"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#https://www.linkedin.com/in/kaarthik-andavar-andy-b32a27143/"
