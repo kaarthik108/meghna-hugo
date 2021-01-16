@@ -1,64 +1,60 @@
-##################################### pricing ##############################
+---
 pricing:
-  enable : true
-  title : Our Plans
-  pricing_table :
-    # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-      
-    # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+  enable: true
+  title: Work Experience
+  pricing_table:
+  - name: Freightways Information Service, Auckland, New Zealand
+    price: Data Scientist
+    unit: ''
+    services:
+    - Customer churn finding at most risk customers and preventing them from leaving
+      business
+    - Forecasting and Modelling across different parts of the business to improve
+      data maturity
+    - Customer segmentation – clustering customers based on customer behavior data
+    - Price Model Effects – calculating customer lifetime value (CLV) and customer
+      margin
+    - Produce new reporting outputs in line with business requirements provided by
+      key stakeholders
+    button:
+      label: FIS
+      link: https://www.freightways.co.nz/
+  - name: Silver
+    price: "$149"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Gold
+    price: "$199"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Platinum
+    price: "$299"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
