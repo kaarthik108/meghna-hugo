@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/new.webp"
+  bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: "/images/new.jpg"
   icon: ''
-  title: KAARTHIK ANDAVAR <Andy>
+  title: KAARTHIK ANDAVAR (Andy)
   content: "Hey there! \nThis is Andy, a Data Science professional and a big-time
     'thinker'. This website was made to showcase all of what I can do and plan to
     do."
