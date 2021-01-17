@@ -1,0 +1,17 @@
+---
+about:
+  enable: true
+  title: About Me
+  about_item:
+  - icon: ti-bar-chart
+    title: Machine Learning
+    content: An aspiring Data Science professional with the sole aim of bringing data
+      to life and make an impact on people's life. Currently working at Freightways
+      Information Service as a Data Scientist.
+  - icon: ti-video-clapper
+    title: Dancer
+    content: I am a self-taught dancer, during my free time I dream choreography and
+      decode it into a creative video, Currently with 10k Subscribers, and close to
+      30 videos, holding a lot of fun memories to cherish :)
+title: Work Experience
+draft: true
