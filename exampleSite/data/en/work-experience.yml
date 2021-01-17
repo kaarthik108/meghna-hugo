@@ -1,17 +1,16 @@
 ---
 about:
   enable: true
-  title: About Me
+  title: Professional Experience
   about_item:
-  - icon: ti-bar-chart
-    title: Machine Learning
-    content: An aspiring Data Science professional with the sole aim of bringing data
-      to life and make an impact on people's life. Currently working at Freightways
-      Information Service as a Data Scientist.
-  - icon: ti-video-clapper
-    title: Dancer
-    content: I am a self-taught dancer, during my free time I dream choreography and
-      decode it into a creative video, Currently with 10k Subscribers, and close to
-      30 videos, holding a lot of fun memories to cherish :)
+  - icon: ti-desktop
+    title: Data Scientist
+    content: Freightways Information Service, Auckland, New Zealand
+  - icon: ti-car
+    title: Business Intelligence Analyst
+    content: Jucy, Auckland, New Zealand
+  - icon: ti-headphone-alt
+    title: Network Engineer
+    content: Mercedes Benz R&D, Bangalore, India
 title: Work Experience
 draft: true
