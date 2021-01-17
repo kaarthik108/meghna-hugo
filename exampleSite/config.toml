@@ -55,11 +55,11 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = ""
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
+copyright = ""
+home = ""
 languageCode = ""
 languageName = ""
-weight = 2
+weight = ""
 [Languages.fr.menu]
 main = []
 [params]
