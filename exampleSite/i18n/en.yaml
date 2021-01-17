@@ -17,8 +17,8 @@
   translation: About me
 - id: services
   translation: Skills
-- id: portfolio
-  translation: Portfolio
+- id: ''
+  translation: ''
 - id: Projects
   translation: Projects
 - id: blog
