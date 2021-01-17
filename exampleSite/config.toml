@@ -101,10 +101,10 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = ""
+description = ""
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = ""
 post_share = true
 [params.cookies]
 enable = false
