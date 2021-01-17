@@ -14,45 +14,27 @@ team:
       areas.
     social:
     - icon: ti-github
-      link: "#https://github.com/kaarthik108/Best-Location-for-Residential-Flat-in-Christchurch"
+      link: https://github.com/kaarthik108/Best-Location-for-Residential-Flat-in-Christchurch
   - name: Pneumonia prediction from the Chest X-ray scan
     image_webp: ''
     image: "/images/xray.jpg"
-    designation: Using Keras and Resnet50 pretrained transfer learning model to predict
-      the labelled image (Chest X-ray) to be either Pneumonia or not.
-    content: "."
+    designation: ''
+    content: 'This is a Deep Learning project using Keras and Resnet50 pre-trained
+      transfer learning model to predict whether a person is diagnosed with pneumonia
+      or not based on the chest x-ray scan image. The data was taken from Kaggle.
+      The model created was then deployed. Please refer the link for the full project. '
     social:
     - icon: ti-kaggle
-      link: "#https://www.kaggle.com/andy2380/pneumonia-prediction-using-resnet50"
+      link: https://www.kaggle.com/andy2380/pneumonia-prediction-using-resnet50
     - icon: ti-github
-      link: "#https://github.com/kaarthik108/Pneumonia-Detection-using-Chest-Xray"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+      link: https://github.com/kaarthik108/Pneumonia-Detection-using-Chest-Xray
+  - name: 'Hackathon: Healthcare Analytics II '
+    image_webp: ''
+    image: "/images/jonathan-borba-sq3thw0y2qe-unsplash.jpg"
+    designation: ''
+    content: The task is to accurately predict the Length of Stay for each patient
+      on case by case basis so that the Hospitals can use this information for optimal
+      resource allocation and better functioning. Basic Exploratory Data Analysis
+      was performed to create insights about the data and created various plots to
+      understand the hidden information.
+    social: []
