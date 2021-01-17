@@ -35,6 +35,5 @@ team:
     content: The task is to accurately predict the Length of Stay for each patient
       on case by case basis so that the Hospitals can use this information for optimal
       resource allocation and better functioning. Basic Exploratory Data Analysis
-      was performed to create insights about the data and created various plots to
-      understand the hidden information.
+      was performed to create insights into the data.
     social: []
