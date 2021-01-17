@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   title: Work Experience
   pricing_table:
   - name: Freightways Information Service, Auckland, New Zealand
