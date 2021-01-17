@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Andy"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 Designed by Kaarthik Andavar"
+copyright = "Copyright 2021 Made with 💜 by Andy"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
