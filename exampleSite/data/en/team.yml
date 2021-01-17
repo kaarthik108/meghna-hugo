@@ -7,10 +7,10 @@ team:
     image_webp: ''
     image: "/images/chc.jpg"
     designation: ''
-    content: The main aim of this project is to determine the best location in Christchurch
-      city to build a residential flat or any business development based on the airport
-      noise factor and away from the main roads in order to avoid busy traffic also
-      where the place Is situated in a clean air zone with priority given to greenfield
+    content: The project is to determine the best location in Christchurch city to
+      build a residential flat or any business development based on the airport noise
+      factor and away from the main roads in order to avoid busy traffic also where
+      the place Is situated in a clean air zone with priority given to greenfield
       areas.
     social:
     - icon: ti-github
