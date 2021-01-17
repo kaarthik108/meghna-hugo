@@ -3,22 +3,22 @@ service:
   enable: true
   title: Skills
   service_item:
-  - name: Languages
-    icon: ti-world
-    content: Python, R, SQL, T-SQL, MDX, DAX, Power Query
-  - name: Database
-    icon: ti-layout
-    content: SQL Server 2000-2019, Oracle 12c
-  - name: BI-Tools
-    icon: ti-blackboard
-    content: Power BI, SSRS, SSIS, Tableau
   - name: Machine Learning
     icon: ti-palette
     content: Sk-learn, Tensorflow, Keras
+  - name: Languages
+    icon: ti-world
+    content: Python, R, SQL, T-SQL, MDX, DAX, Power Query
+  - name: BI-Tools
+    icon: ti-blackboard
+    content: Power BI, SSRS, SSIS, Tableau
+  - name: Database
+    icon: ti-layout
+    content: SQL Server 2016, Oracle 12c
+  - name: Big Data
+    icon: ti-pulse
+    content: Statistical analysis, data wrangling, data mining and modeling,
   - name: Cloud Technologies
     icon: ti-package
     content: Azure SQL Database/ SQL Data Warehouse, Azure Data Factory, AWS EC2,
       Sagemaker, Azure ML
-  - name: Big Data
-    icon: ti-pulse
-    content: Statistical analysis, data wrangling, data mining and modeling,
